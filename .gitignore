@@ -1,3 +1,13 @@
+# ignored data
+data/processed/epoch_0_metrics.json
+data/processed/epoch_0.json
+data/processed/epoch_1_metrics.json
+data/processed/epoch_1.json
+data/processed/epoch_2_metrics.json
+data/processed/epoch_2.json
+data/raw/AttentionMESH_100k.csv
+data/interim/abstract.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
